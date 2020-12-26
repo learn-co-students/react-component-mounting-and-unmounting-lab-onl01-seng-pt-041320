@@ -14,10 +14,10 @@ You are a pancake chef in a fancy pancake restaurant. Time is ticking and
 customers are waiting, so you better get those pancakes out quick! Pancakes need
 to be cooked on either side and taken off the pan at the right moment before
 they burn for optimal deliciousness.
-
+<!-- 
 <p align="center">
   <img src="http://i.imgur.com/yti5NLe.gif"/>
-</p>
+</p> -->
 
 Go on and run the game. It doesn't quite work yet, because some essential bits
 are missing and it's up to you to finish it off!
